@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [DhaniyaNator](https://www.linkedin.com/posts/anabakhtar_machinelearning-application-tensorflowjs-activity-6702225296151654400-tFsW)
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/anabakhtar/](linkedin.com/in/anabakhtar/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/anabakhtar//](linkedin.com/in/anabakhtar/)
 
 - 📫 reach me at **anabakhtar4@gmail.com**
 
