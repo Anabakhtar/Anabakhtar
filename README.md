@@ -1,5 +1,5 @@
 
-# Welcome <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif">
+# Welcome <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="50">
 <h1 align="center">Hey there 💻 I'm SyedAnabAkhtar</h1>
 <h3 align="center">I make projects, lots and lots of them</h3>
 
