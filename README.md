@@ -19,5 +19,5 @@
 <a href="https://twitter.com/syedanabakhtar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="syedanabakhtar" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/anabakhtar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anabakhtar" height="30" width="30" /></a>
 <a href="https://dribbble.com/anab_akhtar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="anabakhtar" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/anabakhtar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="anabakhtar" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCNOhVw2yYR5EJnjGPEX3DrQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="anabakhtar" height="30" width="30" /></a>
 </p>
