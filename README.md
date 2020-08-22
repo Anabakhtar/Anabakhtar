@@ -1,6 +1,6 @@
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<h1 align="center">Hey there 💻 I'm SyedAnabAkhtar</h1>
+<h1 align="center">Hey there 💻 I'm Syed Anab Akhtar</h1>
 <h3 align="center">I make projects, lots and lots of them</h3>
 
 - 🔭 I’m currently working on **ShootiNator**
