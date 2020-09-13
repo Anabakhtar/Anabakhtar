@@ -3,7 +3,7 @@
 <h1 align="center">Hey there 💻 I'm Syed Anab Akhtar</h1>
 <h3 align="center">I make projects, lots and lots of them</h3>
 
-- 🔭 I’m currently working on **ShootiNator**
+- 🔭 I’m currently working on **HomeworkiNator**
 
 - 🌱 I’m currently learning **Quantum Computing**
 
