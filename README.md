@@ -3,9 +3,9 @@
 <h1 align="center">Hey there 💻 I'm Syed Anab Akhtar</h1>
 <h3 align="center">I make projects, lots and lots of them</h3>
 
-- 🔭 I’m currently working on **HomeworkiNator**
+- 🔭 I’m currently working on **Subtitleinatorr**
 
-- 🌱 I’m currently learning **Quantum Computing**
+- 🌱 I’m currently learning **Augmented Reality**
 
 - 🤝 I’m looking for help with [DhaniyaNator](https://www.linkedin.com/posts/anabakhtar_machinelearning-application-tensorflowjs-activity-6702225296151654400-tFsW)
 
